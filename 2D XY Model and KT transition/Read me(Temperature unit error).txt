@@ -1,0 +1,1 @@
+There is a slight mistake in the graphs. The unit represented there should not be Kelvin as to measure the real temperature for this transition we first need to convert our calculation from computational basis into temperature. Hence the temperature shown in graphs is in computation basis only.
