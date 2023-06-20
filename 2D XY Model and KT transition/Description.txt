@@ -1,0 +1,5 @@
+2D XY Model and The KT (Kosterlitz-Thouless) phase transition: 
+The objective was to simulate the 2D XY model, also known as the short-range Ising model, by employing Monte Carlo integration and the Metropolis-Hastings algorithm. 
+To analyse the system, the Markov Chain and bootstrap method were utilized for Autocorrelation and error analysis. 
+The primary focus was on simulating the Kosterlitz-Thouless phase transition, which entailed observing a rapid change in the symmetry of the system 
+while still adhering to the Mermin-Wagner theorem.
